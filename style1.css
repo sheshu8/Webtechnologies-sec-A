@@ -1,0 +1,21 @@
+h1 {
+  text-decoration-line: overline;
+  text-decoration-line: overline underline;
+  color: darkslategrey;
+}
+
+body {
+  background-color: rgb(163, 209, 228);
+}
+
+.compact {
+    background-color:lightpink;
+  }
+  
+  .midsize{
+    background-color:rgb(251,119,141);;
+  }
+  
+  .sports {
+    background-color:rgb(251,119,141);;
+  }
